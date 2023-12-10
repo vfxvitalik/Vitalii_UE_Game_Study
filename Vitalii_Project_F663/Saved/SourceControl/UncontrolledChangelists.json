@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"H:/200_GameDev_Project/Proj/Unreal/Vitalii_UE_Game_Study/Vitalii_Project_F663/Content/Level_01/Level_01_Intro.umap",
+				"H:/200_GameDev_Project/Proj/Unreal/Vitalii_UE_Game_Study/Vitalii_Project_F663/Content/Blueprints/FollowerSphere.uasset",
+				"H:/200_GameDev_Project/Proj/Unreal/Vitalii_UE_Game_Study/Vitalii_Project_F663/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"H:/200_GameDev_Project/Proj/Unreal/Vitalii_UE_Game_Study/Vitalii_Project_F663/Content/Blueprints/PIllarFollower.uasset",
+				"H:/200_GameDev_Project/Proj/Unreal/Vitalii_UE_Game_Study/Vitalii_Project_F663/Content/Blueprints/TestFollower.uasset",
 				"H:/200_GameDev_Project/Proj/Unreal/Vitalii_UE_Game_Study/Vitalii_Project_F663/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"H:/200_GameDev_Project/Proj/Unreal/Vitalii_UE_Game_Study/Vitalii_Project_F663/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset",
 				"H:/200_GameDev_Project/Proj/Unreal/Vitalii_UE_Game_Study/Vitalii_Project_F663/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset",
@@ -271,8 +276,7 @@
 				"H:/200_GameDev_Project/Proj/Unreal/Vitalii_UE_Game_Study/Vitalii_Project_F663/Content/StarterContent/Architecture/Wall_Window_400x400.uasset",
 				"H:/200_GameDev_Project/Proj/Unreal/Vitalii_UE_Game_Study/Vitalii_Project_F663/Content/StarterContent/Audio/Starter_Birds01.uasset",
 				"H:/200_GameDev_Project/Proj/Unreal/Vitalii_UE_Game_Study/Vitalii_Project_F663/Content/StarterContent/Audio/Starter_Wind05.uasset",
-				"H:/200_GameDev_Project/Proj/Unreal/Vitalii_UE_Game_Study/Vitalii_Project_F663/Content/StarterContent/Audio/Starter_Wind06.uasset",
-				"H:/200_GameDev_Project/Proj/Unreal/Vitalii_UE_Game_Study/Vitalii_Project_F663/Content/Level_01/Level_01_Intro.umap"
+				"H:/200_GameDev_Project/Proj/Unreal/Vitalii_UE_Game_Study/Vitalii_Project_F663/Content/StarterContent/Audio/Starter_Wind06.uasset"
 			]
 		}
 	]
